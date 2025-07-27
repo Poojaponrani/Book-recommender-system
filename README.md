@@ -19,13 +19,20 @@ A content-based book recommendation system built using Python and machine learni
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
-   git clone https://github.com/Poojaponrani/Book-recommender-system.git
-   cd Book-recommender-system
+   
+   - git clone https://github.com/Poojaponrani/Book-recommender-system.git
+   - cd Book-recommender-system
+     
 2. **Create and activate a virtual environment**
-   python -m venv venv
-   .\venv\Scripts\activate
+
+   - python -m venv venv
+   - .\venv\Scripts\activate
+     
 3. **Install required packages**
-   pip install -r requirements.txt
+   
+   - pip install -r requirements.txt
+   
 4. **Run the app**
-   python app.py
+   
+   - python app.py
  
